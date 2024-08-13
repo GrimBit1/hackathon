@@ -10,7 +10,8 @@ const PlayersSection = () => {
     >
       <div className="h-screen w-full px-16 flex items-center justify-around bg-no-repeat bg-cover backdrop-blur-sm">
         <img src="/1.png" alt="" />
-        <p className="w-96 text-white bg-black/15 rounded p-6 font-bold">
+        <img src="/3.png" alt="" />
+        <p className="w-96 text-white bg-black/15 rounded p-6 font-bold hidden">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
           corporis quod, explicabo blanditiis eum doloremque facilis quo,
           voluptatem aliquam, non deserunt eius dolore rem sit? Reprehenderit
