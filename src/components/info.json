@@ -1,0 +1,14 @@
+[
+    {
+      "name": "John Doe",
+      "sport": "Wheelchair Racing",
+      "medals": "3 Gold",
+      "image": "/images/john_doe.jpg"
+    },
+    {
+      "name": "Jane Smith",
+      "sport": "Swimming",
+      "medals": "2 Silver",
+      "image": "/images/jane_smith.jpg"
+    }
+  ]
